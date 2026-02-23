@@ -1,0 +1,16 @@
+baseURL = 'https://basquecake.hai/'
+languageCode = 'en-us'
+title = 'BasqueCake'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  author = "Marina"
+  description = "Exploring Human-AI Interaction."
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my space. I share insights on Human-AI Interaction."

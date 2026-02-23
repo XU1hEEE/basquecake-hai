@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on BasqueCake</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on BasqueCake</description>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Feb 2026 04:01:52 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aboutme</title>
+      <link>http://localhost:1313/posts/aboutme/</link>
+      <pubDate>Mon, 23 Feb 2026 04:01:52 -0800</pubDate>
+      <guid>http://localhost:1313/posts/aboutme/</guid>
+      <description>&lt;p&gt;Welcome to my new blog! This is written in Markdown.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
