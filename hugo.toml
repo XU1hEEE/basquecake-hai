@@ -13,4 +13,4 @@ theme = 'PaperMod'
 
   [params.homeInfoParams]
     Title = "Hi there 👋"
-    Content = "Welcome to my space. I share insights on Human-AI Interaction."
+    Content = "I'm a trainer. I share insights on Human-AI Interaction."
