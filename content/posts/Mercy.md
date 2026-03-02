@@ -4,8 +4,6 @@ draft = false
 title = 'The Ghost in the Machine: Lessons from "Mercy" on Human-AI Interaction'
 +++
 
-# The Ghost in the Machine: Lessons from "Mercy" on Human-AI Interaction
-
 > "Humans or AI, we all make mistakes, and we learn." -- Det. Christopher "Chris" Raven
 
 I watched the sci-fi thriller ***Mercy (2026)*** last week, and it sent me into deep reflection. In the film's universe, both humans and artificial intelligence make profound mistakes. But what lessons should be learned from these errors? And are those lessons the same for both man and machine?
