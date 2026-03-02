@@ -8,7 +8,7 @@ title = 'The Ghost in the Machine: Lessons from "Mercy" on Human-AI Interaction'
 
 I watched the sci-fi thriller ***Mercy (2026)*** last week, and it sent me into deep reflection. In the film's universe, both humans and artificial intelligence make profound mistakes. But what lessons should be learned from these errors? And are those lessons the same for both man and machine?
 
-![alt text](image.png)
+![alt text](fig1.png)
 
 Set in a near-future Los Angeles where "Mercy Court" handles capital crimes, the story navigates the blurred boundaries between programmed logic and human truth. It raises profound questions about what it means to be truly human in an era of automated judgment.
 
