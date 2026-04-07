@@ -11,6 +11,18 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
 
+  [params.label]
+    text = "BasqueCake"
+    icon = "logo.png"
+    iconHeight = 30
+
+  [params.assets]
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon-16x16.png"
+    favicon32x32 = "favicon-32x32.png"
+    apple_touch_icon = "apple-touch-icon.png"
+    safari_pinned_tab = "safari-pinned-tab.svg"
+
   [params.homeInfoParams]
     Title = "Hi there 👋"
     Content = "I'm a trainer. I share insights on Human-AI Interaction."

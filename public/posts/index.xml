@@ -2,18 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on BasqueCake</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/basquecake-hai/posts/</link>
     <description>Recent content in Posts on BasqueCake</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Feb 2026 04:01:52 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Mar 2026 20:26:39 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/basquecake-hai/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Aboutme</title>
-      <link>http://localhost:1313/posts/aboutme/</link>
+      <title>Echoes in the Void: Overcoming Graduate School Isolation with the Power of AI Feedback</title>
+      <link>http://localhost:1313/basquecake-hai/posts/feedback/</link>
+      <pubDate>Sun, 08 Mar 2026 20:26:39 -0700</pubDate>
+      <guid>http://localhost:1313/basquecake-hai/posts/feedback/</guid>
+      <description>&lt;p&gt;Last Friday, I found myself sitting at the front of a crowded room during our engineering department’s graduate open house. I was invited to serve as a panelist, tasked with answering the eager, rapid-fire questions of prospective graduate students—both master&amp;rsquo;s and PhD hopefuls. Looking out at them, I saw bright eyes filled with the promise of groundbreaking research, collaborative breakthroughs, and the excitement of pushing the boundaries of human knowledge.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Ghost in the Machine: Lessons from &#34;Mercy&#34; on Human-AI Interaction</title>
+      <link>http://localhost:1313/basquecake-hai/posts/mercy/</link>
       <pubDate>Mon, 23 Feb 2026 04:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/posts/aboutme/</guid>
-      <description>&lt;p&gt;Welcome to my new blog! This is written in Markdown.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/basquecake-hai/posts/mercy/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Humans or AI, we all make mistakes, and we learn.&amp;rdquo; &amp;ndash; Det. Christopher &amp;ldquo;Chris&amp;rdquo; Raven&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I watched the sci-fi thriller &lt;em&gt;&lt;strong&gt;Mercy (2026)&lt;/strong&gt;&lt;/em&gt; last week, and it sent me into deep reflection. In the film&amp;rsquo;s universe, both humans and artificial intelligence make profound mistakes. But what lessons should be learned from these errors? And are those lessons the same for both man and machine?&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/basquecake-hai/posts/mercy/fig1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Set in a near-future Los Angeles where &amp;ldquo;Mercy Court&amp;rdquo; handles capital crimes, the story navigates the blurred boundaries between programmed logic and human truth. It raises profound questions about what it means to be truly human in an era of automated judgment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Digital Aesthetic: Why AI Should Sound Like an AI</title>
+      <link>http://localhost:1313/basquecake-hai/posts/speech-print/</link>
+      <pubDate>Fri, 28 Nov 2025 11:24:07 -0800</pubDate>
+      <guid>http://localhost:1313/basquecake-hai/posts/speech-print/</guid>
+      <description>&lt;p&gt;Yesterday, I attended a Thanksgiving dinner and had a fascinating conversation with one of my friend’s mothers, who is a veteran ESL teacher. She shared an observation that resonated deeply with me: she can almost always tell whether a passage was written by a student or an AI. To her, every person has a unique &lt;strong&gt;&amp;ldquo;speech style&amp;rdquo;&lt;/strong&gt;—a linguistic fingerprint shaped by struggle, culture, and personal growth—that is fundamentally different from the predictable patterns of a machine.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
