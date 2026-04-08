@@ -15,12 +15,17 @@ theme = 'PaperMod'
 
   [params.label]
     text = "BasqueCake"
-    icon = "logo2.png"
+    icon = "logo1.png"
     iconHeight = 30
 
   [params.homeInfoParams]
-    Title = "Hi ˶˙ᵕ˙ )ﾉﾞ"
-    Content = "I'm a trainer. I share insights on Human-AI Interaction. Open to chats anytime!"
+    Title = " Hi ˶˙ᵕ˙ )ﾉﾞ"
+    # Content = "I'm a trainer. I share insights on Human-AI Interaction. Open to chats anytime!"
+    Content = """
+     I'm a trainer.
+     I share insights on Human-AI Interaction.
+     Open to chats anytime!
+    """
 
   [[params.socialIcons]]
     name = "email"
