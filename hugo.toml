@@ -22,8 +22,7 @@ theme = 'PaperMod'
     Title = " Hi ˶˙ᵕ˙ )ﾉﾞ"
     # Content = "I'm a trainer. I share insights on Human-AI Interaction. Open to chats anytime!"
     Content = """
-     I'm a trainer.
-     I share insights on Human-AI Interaction.
+     I'm a trainer. I share insights on Human-AI Interaction.
      Open to chats anytime!
     """
 
