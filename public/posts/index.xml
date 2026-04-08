@@ -6,8 +6,16 @@
     <description>Recent content in Posts on BasqueCake</description>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Mar 2026 20:26:39 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 19:24:03 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/basquecake-hai/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When AI Makes Work Easier, Does It Also Make Waste Easier?</title>
+      <link>http://localhost:1313/basquecake-hai/posts/human-vs/</link>
+      <pubDate>Thu, 02 Apr 2026 19:24:03 -0700</pubDate>
+      <guid>http://localhost:1313/basquecake-hai/posts/human-vs/</guid>
+      <description>&lt;p&gt;This quarter, I enrolled in an interesting course called &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1EPz30ZUIgdEZhgZbZs4WsEvTqstY9_ljpiD0pX9Juh4/edit?gid=0#gid=0&#34;&gt;&lt;strong&gt;Human Factors in Arti–cial Intelligence (ECE 209AS)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One idea from the last course stayed with me: &lt;strong&gt;the human brain may be slower than a computer, but it is dramatically more energy-efficient&lt;/strong&gt;. For the average adult at rest, the brain consumes about &lt;strong&gt;20% of the body’s total energy&lt;/strong&gt;, yet its total power draw is only about &lt;strong&gt;20 watts&lt;/strong&gt;. Neural signals are also much slower than electrical signals in computers. Unmyelinated fibers conduct at about &lt;strong&gt;1 to 5 m/s&lt;/strong&gt;, while myelinated axons can reach &lt;strong&gt;up to 150 m/s&lt;/strong&gt;. And yet, despite that speed disadvantage, the brain still performs remarkably well in tasks involving judgment, context, adaptation, and meaning.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Echoes in the Void: Overcoming Graduate School Isolation with the Power of AI Feedback</title>
       <link>http://localhost:1313/basquecake-hai/posts/feedback/</link>

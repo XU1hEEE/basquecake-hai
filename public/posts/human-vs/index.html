@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto" data-theme="auto">
+
+<head><script src="/basquecake-hai/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=basquecake-hai/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="index, follow">
+<title>When AI Makes Work Easier, Does It Also Make Waste Easier? | BasqueCake</title>
+<meta name="keywords" content="">
+<meta name="description" content="This quarter, I enrolled in an interesting course called Human Factors in Arti–cial Intelligence (ECE 209AS).
+One idea from the last course stayed with me: the human brain may be slower than a computer, but it is dramatically more energy-efficient. For the average adult at rest, the brain consumes about 20% of the body’s total energy, yet its total power draw is only about 20 watts. Neural signals are also much slower than electrical signals in computers. Unmyelinated fibers conduct at about 1 to 5 m/s, while myelinated axons can reach up to 150 m/s. And yet, despite that speed disadvantage, the brain still performs remarkably well in tasks involving judgment, context, adaptation, and meaning.">
+<meta name="author" content="Marina">
+<link rel="canonical" href="http://localhost:1313/basquecake-hai/posts/human-vs/">
+<link crossorigin="anonymous" href="/basquecake-hai/assets/css/stylesheet.871e9894146acd3e384446987f1f3429e1a00fe558fbc1b48f7307d12475ba60.css" integrity="sha256-hx6YlBRqzT44REaYfx80KeGgD&#43;VY&#43;8G0j3MH0SR1umA=" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/basquecake-hai/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/basquecake-hai/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/basquecake-hai/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/basquecake-hai/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/basquecake-hai/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/basquecake-hai/posts/human-vs/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+                color-scheme: dark;
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .toc {
+                background: var(--entry);
+            }
+        }
+
+        @media (prefers-color-scheme: light) {
+            .list::-webkit-scrollbar-thumb {
+                border-color: var(--code-bg);
+            }
+        }
+
+    </style>
+</noscript>
+<script>
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else if (localStorage.getItem("pref-theme") === "light") {
+       document.querySelector("html").dataset.theme = 'light';
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.querySelector("html").dataset.theme = 'dark';
+    } else {
+        document.querySelector("html").dataset.theme = 'light';
+    }
+
+</script><meta property="og:url" content="http://localhost:1313/basquecake-hai/posts/human-vs/">
+  <meta property="og:site_name" content="BasqueCake">
+  <meta property="og:title" content="When AI Makes Work Easier, Does It Also Make Waste Easier?">
+  <meta property="og:description" content="This quarter, I enrolled in an interesting course called Human Factors in Arti–cial Intelligence (ECE 209AS).
+One idea from the last course stayed with me: the human brain may be slower than a computer, but it is dramatically more energy-efficient. For the average adult at rest, the brain consumes about 20% of the body’s total energy, yet its total power draw is only about 20 watts. Neural signals are also much slower than electrical signals in computers. Unmyelinated fibers conduct at about 1 to 5 m/s, while myelinated axons can reach up to 150 m/s. And yet, despite that speed disadvantage, the brain still performs remarkably well in tasks involving judgment, context, adaptation, and meaning.">
+  <meta property="og:locale" content="en-us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-04-02T19:24:03-07:00">
+    <meta property="article:modified_time" content="2026-04-02T19:24:03-07:00">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="When AI Makes Work Easier, Does It Also Make Waste Easier?">
+<meta name="twitter:description" content="This quarter, I enrolled in an interesting course called Human Factors in Arti–cial Intelligence (ECE 209AS).
+One idea from the last course stayed with me: the human brain may be slower than a computer, but it is dramatically more energy-efficient. For the average adult at rest, the brain consumes about 20% of the body’s total energy, yet its total power draw is only about 20 watts. Neural signals are also much slower than electrical signals in computers. Unmyelinated fibers conduct at about 1 to 5 m/s, while myelinated axons can reach up to 150 m/s. And yet, despite that speed disadvantage, the brain still performs remarkably well in tasks involving judgment, context, adaptation, and meaning.">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "http://localhost:1313/basquecake-hai/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "When AI Makes Work Easier, Does It Also Make Waste Easier?",
+      "item": "http://localhost:1313/basquecake-hai/posts/human-vs/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "When AI Makes Work Easier, Does It Also Make Waste Easier?",
+  "name": "When AI Makes Work Easier, Does It Also Make Waste Easier?",
+  "description": "This quarter, I enrolled in an interesting course called Human Factors in Arti–cial Intelligence (ECE 209AS).\nOne idea from the last course stayed with me: the human brain may be slower than a computer, but it is dramatically more energy-efficient. For the average adult at rest, the brain consumes about 20% of the body’s total energy, yet its total power draw is only about 20 watts. Neural signals are also much slower than electrical signals in computers. Unmyelinated fibers conduct at about 1 to 5 m/s, while myelinated axons can reach up to 150 m/s. And yet, despite that speed disadvantage, the brain still performs remarkably well in tasks involving judgment, context, adaptation, and meaning.\n",
+  "keywords": [
+    
+  ],
+  "articleBody": "This quarter, I enrolled in an interesting course called Human Factors in Arti–cial Intelligence (ECE 209AS).\nOne idea from the last course stayed with me: the human brain may be slower than a computer, but it is dramatically more energy-efficient. For the average adult at rest, the brain consumes about 20% of the body’s total energy, yet its total power draw is only about 20 watts. Neural signals are also much slower than electrical signals in computers. Unmyelinated fibers conduct at about 1 to 5 m/s, while myelinated axons can reach up to 150 m/s. And yet, despite that speed disadvantage, the brain still performs remarkably well in tasks involving judgment, context, adaptation, and meaning.\nThat idea led me to an uncomfortable question: what happens when people use AI for work that humans could easily do on their own? Today, many people ask AI to rewrite short emails, summarize a few paragraphs, generate routine captions, or answer very simple questions. These are tasks that, not long ago, most people would have handled with a few minutes of their own attention. AI makes them easier, but it also makes it easy to forget that convenience is not free.\nThe hidden cost of “easy” Modern AI does not run on nothing. Even if exact public energy numbers for systems like GPT-4 are not available, the infrastructure behind large AI models is clearly energy-intensive. OpenAI notes that proprietary energy benchmarks for frontier models are generally not public, while NVIDIA lists a DGX H200 system at about 10.2 kW max system power usage. At the larger scale, AI infrastructure is pushing toward racks that consume 100 kW or more, far beyond anything comparable to the human brain.\nSo the issue is not simply whether AI is useful. Of course it is. AI can help with programming, research, translation, accessibility, large-scale data analysis, and many other demanding tasks. The real issue is whether we are using a high-resource system for high-value work, or whether we are normalizing the use of industrial-scale computation for trivial cognitive outsourcing.\nWhen should humans think, and when should AI help? I do not think the answer is to reject AI. The better question is: when should the human brain be used, and when should AI be used?\nThe human brain should probably remain the first choice when the task requires:\njudgment ethics interpretation emotional understanding common sense originality AI should probably be used when the task requires:\nscale repetition fast search pattern detection automation processing large amounts of information quickly That distinction matters because the brain and AI are not optimized for the same things. The brain is astonishingly efficient, flexible, and context-aware. AI is powerful at throughput. Treating them as interchangeable can lead to bad habits: humans start outsourcing even the smallest acts of thinking, while the physical infrastructure needed to support that habit keeps growing.\nCould this speed up resource burnout? I think the answer is potentially yes.\nMIT notes that generative AI has real environmental consequences, including rising electricity demand and water consumption for data centers. Those costs do not stop after a model is trained. They continue during everyday use, at inference time, every time people generate text, images, code, or summaries at scale. If more and more ordinary tasks are shifted to AI simply because it is convenient, then resource consumption will grow not only because AI is powerful, but because it becomes the default for everything.\nThat is what worries me most. If people increasingly use AI just to avoid small amounts of thinking that they are fully capable of doing, then the long-term effect may be a culture of frictionless waste. Each individual request may seem small. But billions of “small” requests, multiplied across data centers, become a serious resource question.\nA better way to think about AI Maybe the point is not that AI is bad, or that humans should do everything manually. The point is that powerful tools deserve selective use.\nIf AI is used for problems that truly require scale, speed, or computational reach, then its energy cost may be justified. But if it is mostly used to avoid ordinary effort, then we should ask whether we are trading away sustainability for convenience.\nThe irony is that the human brain, despite being slower, may still be the more sustainable everyday intelligence. It runs on about 20 watts. It handles ambiguity well. It understands context. And in many real-life situations, it still knows better than a machine what actually matters.\nMaybe the real question is not whether AI can think for us, but whether every small task is worth asking a data center to think about.\nLinks BrainFacts: How Much Energy Does the Brain Use? MIT News: Explained: Generative AI’s Environmental Impact NVIDIA DGX H200 ",
+  "wordCount" : "794",
+  "inLanguage": "en",
+  "datePublished": "2026-04-02T19:24:03-07:00",
+  "dateModified": "2026-04-02T19:24:03-07:00",
+  "author":{
+    "@type": "Person",
+    "name": "Marina"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/basquecake-hai/posts/human-vs/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "BasqueCake",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/basquecake-hai/favicon.ico"
+    }
+  }
+}
+</script>
+</head>
+<body id="top">
+    <header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/basquecake-hai/" accesskey="h" title="BasqueCake (Alt + H)">
+                <img src="http://localhost:1313/basquecake-hai/logo.png" alt="" aria-label="logo"
+                    height="30">BasqueCake</a>
+            <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/basquecake-hai/posts/" title="Posts">
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/basquecake-hai/search/" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      When AI Makes Work Easier, Does It Also Make Waste Easier?
+    </h1>
+    <div class="post-meta"><span title='2026-04-02 19:24:03 -0700 PDT'>April 2, 2026</span>&nbsp;·&nbsp;<span>4 min</span>&nbsp;·&nbsp;<span>Marina</span>
+
+</div>
+  </header> 
+  <div class="post-content"><p>This quarter, I enrolled in an interesting course called <a href="https://docs.google.com/spreadsheets/d/1EPz30ZUIgdEZhgZbZs4WsEvTqstY9_ljpiD0pX9Juh4/edit?gid=0#gid=0"><strong>Human Factors in Arti–cial Intelligence (ECE 209AS)</strong></a>.</p>
+<p>One idea from the last course stayed with me: <strong>the human brain may be slower than a computer, but it is dramatically more energy-efficient</strong>. For the average adult at rest, the brain consumes about <strong>20% of the body’s total energy</strong>, yet its total power draw is only about <strong>20 watts</strong>. Neural signals are also much slower than electrical signals in computers. Unmyelinated fibers conduct at about <strong>1 to 5 m/s</strong>, while myelinated axons can reach <strong>up to 150 m/s</strong>. And yet, despite that speed disadvantage, the brain still performs remarkably well in tasks involving judgment, context, adaptation, and meaning.</p>
+<p><img alt="Slide" loading="lazy" src="/basquecake-hai/posts/human-vs/fig.png"></p>
+<p>That idea led me to an uncomfortable question: <strong>what happens when people use AI for work that humans could easily do on their own?</strong> Today, many people ask AI to rewrite short emails, summarize a few paragraphs, generate routine captions, or answer very simple questions. These are tasks that, not long ago, most people would have handled with a few minutes of their own attention. AI makes them easier, but it also makes it easy to forget that convenience is not free.</p>
+<h2 id="the-hidden-cost-of-easy">The hidden cost of “easy”<a hidden class="anchor" aria-hidden="true" href="#the-hidden-cost-of-easy">#</a></h2>
+<p>Modern AI does not run on nothing. Even if exact public energy numbers for systems like GPT-4 are not available, the infrastructure behind large AI models is clearly energy-intensive. OpenAI notes that proprietary energy benchmarks for frontier models are generally not public, while NVIDIA lists a <strong>DGX H200</strong> system at <strong>about 10.2 kW max system power usage</strong>. At the larger scale, AI infrastructure is pushing toward racks that consume <strong>100 kW or more</strong>, far beyond anything comparable to the human brain.</p>
+<p>So the issue is not simply whether AI is useful. Of course it is. AI can help with programming, research, translation, accessibility, large-scale data analysis, and many other demanding tasks. The real issue is whether we are using a high-resource system for <strong>high-value work</strong>, or whether we are normalizing the use of industrial-scale computation for trivial cognitive outsourcing.</p>
+<h2 id="when-should-humans-think-and-when-should-ai-help">When should humans think, and when should AI help?<a hidden class="anchor" aria-hidden="true" href="#when-should-humans-think-and-when-should-ai-help">#</a></h2>
+<p>I do not think the answer is to reject AI. The better question is: <strong>when should the human brain be used, and when should AI be used?</strong></p>
+<p>The human brain should probably remain the first choice when the task requires:</p>
+<ul>
+<li>judgment</li>
+<li>ethics</li>
+<li>interpretation</li>
+<li>emotional understanding</li>
+<li>common sense</li>
+<li>originality</li>
+</ul>
+<p>AI should probably be used when the task requires:</p>
+<ul>
+<li>scale</li>
+<li>repetition</li>
+<li>fast search</li>
+<li>pattern detection</li>
+<li>automation</li>
+<li>processing large amounts of information quickly</li>
+</ul>
+<p>That distinction matters because the brain and AI are not optimized for the same things. The brain is astonishingly efficient, flexible, and context-aware. AI is powerful at throughput. Treating them as interchangeable can lead to bad habits: humans start outsourcing even the smallest acts of thinking, while the physical infrastructure needed to support that habit keeps growing.</p>
+<h2 id="could-this-speed-up-resource-burnout">Could this speed up resource burnout?<a hidden class="anchor" aria-hidden="true" href="#could-this-speed-up-resource-burnout">#</a></h2>
+<p>I think the answer is <strong>potentially yes</strong>.</p>
+<p>MIT notes that generative AI has real environmental consequences, including rising electricity demand and water consumption for data centers. Those costs do not stop after a model is trained. They continue during everyday use, at inference time, every time people generate text, images, code, or summaries at scale. If more and more ordinary tasks are shifted to AI simply because it is convenient, then resource consumption will grow not only because AI is powerful, but because it becomes the default for everything.</p>
+<p>That is what worries me most. If people increasingly use AI just to avoid small amounts of thinking that they are fully capable of doing, then the long-term effect may be a culture of <strong>frictionless waste</strong>. Each individual request may seem small. But billions of “small” requests, multiplied across data centers, become a serious resource question.</p>
+<h2 id="a-better-way-to-think-about-ai">A better way to think about AI<a hidden class="anchor" aria-hidden="true" href="#a-better-way-to-think-about-ai">#</a></h2>
+<p>Maybe the point is not that AI is bad, or that humans should do everything manually. The point is that <strong>powerful tools deserve selective use</strong>.</p>
+<p>If AI is used for problems that truly require scale, speed, or computational reach, then its energy cost may be justified. But if it is mostly used to avoid ordinary effort, then we should ask whether we are trading away sustainability for convenience.</p>
+<p>The irony is that the human brain, despite being slower, may still be the more sustainable everyday intelligence. It runs on about 20 watts. It handles ambiguity well. It understands context. And in many real-life situations, it still knows better than a machine what actually matters.</p>
+<blockquote>
+<p>Maybe the real question is not whether AI can think for us, but whether every small task is worth asking a data center to think about.</p>
+</blockquote>
+<hr>
+<h2 id="links">Links<a hidden class="anchor" aria-hidden="true" href="#links">#</a></h2>
+<ul>
+<li><a href="https://www.brainfacts.org/brain-anatomy-and-function/anatomy/2019/how-much-energy-does-the-brain-use-020119">BrainFacts: How Much Energy Does the Brain Use?</a></li>
+<li><a href="https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117">MIT News: Explained: Generative AI’s Environmental Impact</a></li>
+<li><a href="https://www.nvidia.com/en-us/data-center/dgx-h200/">NVIDIA DGX H200</a></li>
+</ul>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2026 <a href="http://localhost:1313/basquecake-hai/">BasqueCake</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu');
+    if (menu) {
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            html.dataset.theme = 'dark';
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
+
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
+</script>
+</body>
+
+</html>

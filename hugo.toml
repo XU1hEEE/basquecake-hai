@@ -11,18 +11,40 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
 
+  disableSpecial1stPost = true
+
   [params.label]
     text = "BasqueCake"
     icon = "logo.png"
     iconHeight = 30
 
-  # [params.assets]
-  #   favicon = "favicon.ico"
-  #   favicon16x16 = "favicon-16x16.png"
-  #   favicon32x32 = "favicon-32x32.png"
-  #   apple_touch_icon = "apple-touch-icon.png"
-  #   safari_pinned_tab = "safari-pinned-tab.svg"
-
   [params.homeInfoParams]
-    Title = "Hi there 👋"
-    Content = "I'm a trainer. I share insights on Human-AI Interaction."
+    Title = "Hi ˶˙ᵕ˙ )ﾉﾞ"
+    Content = "I'm a trainer. I share insights on Human-AI Interaction. Open to chats anytime!"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto: marinaxu25@ucla.edu"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/XU1hEEE"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/yihe-xu-116963332/"
+
+
+[menus]
+  [[menus.main]]
+    name = "Posts"
+    pageRef = "/posts"
+    weight = 20
+
+  [[menus.main]]
+    name = "Search"
+    pageRef = "/search"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

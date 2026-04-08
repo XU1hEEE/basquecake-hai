@@ -19,6 +19,8 @@
   </url><url>
     <loc>http://localhost:1313/basquecake-hai/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/basquecake-hai/search/</loc>
+  </url><url>
     <loc>http://localhost:1313/basquecake-hai/tags/</loc>
   </url>
 </urlset>
