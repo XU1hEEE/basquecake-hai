@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>BasqueCake</title>
-    <link>https://XU1hEEE.github.io/basquecake-hai/</link>
+    <link>http://localhost:1313/basquecake-hai/</link>
     <description>Recent content on BasqueCake</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Apr 2026 19:24:03 -0700</lastBuildDate>
-    <atom:link href="https://XU1hEEE.github.io/basquecake-hai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/basquecake-hai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When AI Makes Work Easier, Does It Also Make Waste Easier?</title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/posts/human-vs/</link>
+      <link>http://localhost:1313/basquecake-hai/posts/human-vs/</link>
       <pubDate>Thu, 02 Apr 2026 19:24:03 -0700</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/posts/human-vs/</guid>
+      <guid>http://localhost:1313/basquecake-hai/posts/human-vs/</guid>
       <description>&lt;p&gt;This quarter, I enrolled in an interesting course called &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1EPz30ZUIgdEZhgZbZs4WsEvTqstY9_ljpiD0pX9Juh4/edit?gid=0#gid=0&#34;&gt;&lt;strong&gt;Human Factors in Arti–cial Intelligence (ECE 209AS)&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;One idea from the last course stayed with me: &lt;strong&gt;the human brain may be slower than a computer, but it is dramatically more energy-efficient&lt;/strong&gt;. For the average adult at rest, the brain consumes about &lt;strong&gt;20% of the body’s total energy&lt;/strong&gt;, yet its total power draw is only about &lt;strong&gt;20 watts&lt;/strong&gt;. Neural signals are also much slower than electrical signals in computers. Unmyelinated fibers conduct at about &lt;strong&gt;1 to 5 m/s&lt;/strong&gt;, while myelinated axons can reach &lt;strong&gt;up to 150 m/s&lt;/strong&gt;. And yet, despite that speed disadvantage, the brain still performs remarkably well in tasks involving judgment, context, adaptation, and meaning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Echoes in the Void: Overcoming Graduate School Isolation with the Power of AI Feedback</title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/posts/feedback/</link>
+      <link>http://localhost:1313/basquecake-hai/posts/feedback/</link>
       <pubDate>Sun, 08 Mar 2026 20:26:39 -0700</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/posts/feedback/</guid>
+      <guid>http://localhost:1313/basquecake-hai/posts/feedback/</guid>
       <description>&lt;p&gt;Last Friday, I found myself sitting at the front of a crowded room during our engineering department’s graduate open house. I was invited to serve as a panelist, tasked with answering the eager, rapid-fire questions of prospective graduate students—both master&amp;rsquo;s and PhD hopefuls. Looking out at them, I saw bright eyes filled with the promise of groundbreaking research, collaborative breakthroughs, and the excitement of pushing the boundaries of human knowledge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction to Artificial Intelligence (AI)</title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l01-introduction/</link>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l01-introduction/</link>
       <pubDate>Mon, 23 Feb 2026 04:01:52 -0800</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l01-introduction/</guid>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l01-introduction/</guid>
       <description>&lt;h3 id=&#34;defining-ai&#34;&gt;Defining AI&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;AI is defined as algorithms performing tasks or behaviors that a human would reasonably deem to require intelligence.&lt;/li&gt;
@@ -53,70 +53,70 @@ $$output=\begin{cases}0 &amp;amp; if\sum_{j}w_{j}x_{j}\le threshold\ 1 &amp;amp;
     </item>
     <item>
       <title>The Ghost in the Machine: Lessons from &#34;Mercy&#34; on Human-AI Interaction</title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/posts/mercy/</link>
+      <link>http://localhost:1313/basquecake-hai/posts/mercy/</link>
       <pubDate>Mon, 23 Feb 2026 04:01:52 -0800</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/posts/mercy/</guid>
+      <guid>http://localhost:1313/basquecake-hai/posts/mercy/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;Humans or AI, we all make mistakes, and we learn.&amp;rdquo; &amp;ndash; Det. Christopher &amp;ldquo;Chris&amp;rdquo; Raven&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;I watched the sci-fi thriller &lt;em&gt;&lt;strong&gt;Mercy (2026)&lt;/strong&gt;&lt;/em&gt; last week, and it sent me into deep reflection. In the film&amp;rsquo;s universe, both humans and artificial intelligence make profound mistakes. But what lessons should be learned from these errors? And are those lessons the same for both man and machine?&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;https://XU1hEEE.github.io/basquecake-hai/posts/mercy/fig1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/basquecake-hai/posts/mercy/fig1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Set in a near-future Los Angeles where &amp;ldquo;Mercy Court&amp;rdquo; handles capital crimes, the story navigates the blurred boundaries between programmed logic and human truth. It raises profound questions about what it means to be truly human in an era of automated judgment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Digital Aesthetic: Why AI Should Sound Like an AI</title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/posts/speech-print/</link>
+      <link>http://localhost:1313/basquecake-hai/posts/speech-print/</link>
       <pubDate>Fri, 28 Nov 2025 11:24:07 -0800</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/posts/speech-print/</guid>
+      <guid>http://localhost:1313/basquecake-hai/posts/speech-print/</guid>
       <description>&lt;p&gt;Yesterday, I attended a Thanksgiving dinner and had a fascinating conversation with one of my friend’s mothers, who is a veteran ESL teacher. She shared an observation that resonated deeply with me: she can almost always tell whether a passage was written by a student or an AI. To her, every person has a unique &lt;strong&gt;&amp;ldquo;speech style&amp;rdquo;&lt;/strong&gt;—a linguistic fingerprint shaped by struggle, culture, and personal growth—that is fundamentally different from the predictable patterns of a machine.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l02-human-intelligence/</link>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l02-human-intelligence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l02-human-intelligence/</guid>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l02-human-intelligence/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l03-data-collection-annotation/</link>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l03-data-collection-annotation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l03-data-collection-annotation/</guid>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l03-data-collection-annotation/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</link>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</guid>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l05-model-interpretability/</link>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l05-model-interpretability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l05-model-interpretability/</guid>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l05-model-interpretability/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</link>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</guid>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l07-autonomy-trust-reliance/</link>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l07-autonomy-trust-reliance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l07-autonomy-trust-reliance/</guid>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l07-autonomy-trust-reliance/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l08-fairness-bias/</link>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l08-fairness-bias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l08-fairness-bias/</guid>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l08-fairness-bias/</guid>
       <description></description>
     </item>
   </channel>
