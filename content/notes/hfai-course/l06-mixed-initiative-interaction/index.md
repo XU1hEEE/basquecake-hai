@@ -1,5 +1,5 @@
 +++
-date = '2026-05-4T10:01:52-08:00'
+date = '2026-05-04T10:01:52-08:00'
 draft = false
 title = 'L6: Mixed-Initiative Interaction'
 +++

@@ -70,6 +70,40 @@
 &lt;p&gt;Consider explaining why &lt;strong&gt;Action b&lt;/strong&gt; is chosen.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>L6: Mixed-Initiative Interaction</title>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</link>
+      <pubDate>Mon, 04 May 2026 10:01:52 -0800</pubDate>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;p&gt;Mixed-Initiative Interaction refers to systems where both humans and AI contribute to decision-making and task completion. Instead of either the human or AI being fully in control, initiative is shared dynamically based on context, uncertainty, and user needs.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;1-introduction-to-mixed-initiative-interaction&#34;&gt;1. Introduction to Mixed-Initiative Interaction&lt;/h1&gt;
+&lt;h2 id=&#34;example-dasher-2000&#34;&gt;Example: Dasher (2000)&lt;/h2&gt;
+&lt;h3 id=&#34;what-is-dasher&#34;&gt;What is Dasher?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;A zoomable text-entry interface.&lt;/li&gt;
+&lt;li&gt;Users point toward desired letters rather than selecting them precisely.&lt;/li&gt;
+&lt;li&gt;A language model predicts likely next characters.&lt;/li&gt;
+&lt;li&gt;The interface continuously zooms toward predicted text.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;key-idea&#34;&gt;Key Idea&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Combines:
+&lt;ul&gt;
+&lt;li&gt;Human guidance (pointing)&lt;/li&gt;
+&lt;li&gt;AI prediction (language model)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-important&#34;&gt;Why Important?&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Demonstrates an early form of AI-assisted interaction.&lt;/li&gt;
+&lt;li&gt;Shows how AI can reduce user effort without removing user control.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;main-takeaway&#34;&gt;Main Takeaway&lt;/h3&gt;
+&lt;p&gt;Mixed-initiative systems combine human input with AI predictions to accomplish tasks more efficiently.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>L4: Feature Visualization &amp; Engineering</title>
       <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</link>
       <pubDate>Mon, 20 Apr 2026 10:01:52 -0800</pubDate>
@@ -277,40 +311,6 @@ $$output=\begin{cases}0 &amp;amp; if\sum_{j}w_{j}x_{j}\le threshold\ 1 &amp;amp;
 &lt;h2 id=&#34;the-birth-and-evolution-of-ai&#34;&gt;The Birth and Evolution of AI&lt;/h2&gt;
 &lt;h3 id=&#34;the-dartmouth-summer-research-project-1956&#34;&gt;The Dartmouth Summer Research Project (1956)&lt;/h3&gt;
 &lt;p&gt;Organized by John McCarthy, Marvin Minsky, Claude Shannon, and Nathaniel Rochester, this two-month project aimed to develop the idea of a &amp;ldquo;thinking machine&amp;rdquo;. They established seven key aspects of AI:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>L6: Mixed-Initiative Interaction</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
-&lt;p&gt;Mixed-Initiative Interaction refers to systems where both humans and AI contribute to decision-making and task completion. Instead of either the human or AI being fully in control, initiative is shared dynamically based on context, uncertainty, and user needs.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&#34;1-introduction-to-mixed-initiative-interaction&#34;&gt;1. Introduction to Mixed-Initiative Interaction&lt;/h1&gt;
-&lt;h2 id=&#34;example-dasher-2000&#34;&gt;Example: Dasher (2000)&lt;/h2&gt;
-&lt;h3 id=&#34;what-is-dasher&#34;&gt;What is Dasher?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;A zoomable text-entry interface.&lt;/li&gt;
-&lt;li&gt;Users point toward desired letters rather than selecting them precisely.&lt;/li&gt;
-&lt;li&gt;A language model predicts likely next characters.&lt;/li&gt;
-&lt;li&gt;The interface continuously zooms toward predicted text.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;key-idea&#34;&gt;Key Idea&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Combines:
-&lt;ul&gt;
-&lt;li&gt;Human guidance (pointing)&lt;/li&gt;
-&lt;li&gt;AI prediction (language model)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;why-important&#34;&gt;Why Important?&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Demonstrates an early form of AI-assisted interaction.&lt;/li&gt;
-&lt;li&gt;Shows how AI can reduce user effort without removing user control.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;main-takeaway&#34;&gt;Main Takeaway&lt;/h3&gt;
-&lt;p&gt;Mixed-initiative systems combine human input with AI predictions to accomplish tasks more efficiently.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
