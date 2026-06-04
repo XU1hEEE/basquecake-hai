@@ -43,7 +43,7 @@ theme = 'PaperMod'
   [[menus.main]]
     name = "Posts"
     pageRef = "/posts"
-    weight = 20
+    weight = 10
   
   [[menus.main]]
     name = "Notes"
@@ -53,7 +53,7 @@ theme = 'PaperMod'
   [[menus.main]]
     name = "Search"
     pageRef = "/search" 
-    weight = 40
+    weight = 30
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

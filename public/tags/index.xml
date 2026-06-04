@@ -7,26 +7,5 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/basquecake-hai/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/basquecake-hai/tags/artificial-intelligence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cognitive Science</title>
-      <link>http://localhost:1313/basquecake-hai/tags/cognitive-science/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/tags/cognitive-science/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Human Intelligence</title>
-      <link>http://localhost:1313/basquecake-hai/tags/human-intelligence/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/tags/human-intelligence/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
