@@ -2,28 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/basquecake-hai/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/</loc>
     <lastmod>2026-04-02T19:24:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/posts/</loc>
     <lastmod>2026-04-02T19:24:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/human-vs/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/posts/human-vs/</loc>
     <lastmod>2026-04-02T19:24:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/feedback/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/posts/feedback/</loc>
     <lastmod>2026-03-08T20:26:39-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/mercy/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l01-introduction/</loc>
     <lastmod>2026-02-23T04:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/speech-print/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/</loc>
+    <lastmod>2026-02-23T04:01:52-08:00</lastmod>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/posts/mercy/</loc>
+    <lastmod>2026-02-23T04:01:52-08:00</lastmod>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/posts/speech-print/</loc>
     <lastmod>2025-11-28T11:24:07-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/categories/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l02-human-intelligence/</loc>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/search/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l03-data-collection-annotation/</loc>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/tags/</loc>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</loc>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l05-model-interpretability/</loc>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</loc>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l07-autonomy-trust-reliance/</loc>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/notes/hfai-course/l08-fairness-bias/</loc>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/categories/</loc>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/search/</loc>
+  </url><url>
+    <loc>https://XU1hEEE.github.io/basquecake-hai/tags/</loc>
   </url>
 </urlset>
