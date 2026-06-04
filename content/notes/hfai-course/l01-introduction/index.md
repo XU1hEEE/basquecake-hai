@@ -1,7 +1,7 @@
 +++
-date = '2026-02-23T04:01:52-08:00'
+date = '2026-03-30T10:01:52-08:00'
 draft = false
-title = 'Introduction to Artificial Intelligence (AI)'
+title = 'L1: Introduction to Artificial Intelligence'
 +++
 
 ### Defining AI

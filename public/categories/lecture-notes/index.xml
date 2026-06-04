@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lecture Notes on BasqueCake</title>
+    <link>http://localhost:1313/basquecake-hai/categories/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on BasqueCake</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/basquecake-hai/categories/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes: Human Intelligence vs. Artificial Intelligence</title>
+      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l02-human-intelligence/</link>
+      <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l02-human-intelligence/</guid>
+      <description>&lt;p&gt;Here are the notes from the second lecture, focusing on Human Intelligence and its comparison to Artificial Intelligence:&lt;/p&gt;
+&lt;h2 id=&#34;introduction-to-human-intelligence&#34;&gt;Introduction to Human Intelligence&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding human intelligence helps us reflect on how AI differs from it and reveals AI&amp;rsquo;s fundamental limitations.&lt;/li&gt;
+&lt;li&gt;Exploring human intelligence raises the question of whether or how AI should attempt to mimic it.&lt;/li&gt;
+&lt;li&gt;Human intelligence spans from high-level cognitive theories down to low-level neurobiological building blocks.&lt;/li&gt;
+&lt;li&gt;Artificial intelligence currently operates differently, relying heavily on data-driven pattern recognition.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;brain-anatomy-and-function&#34;&gt;Brain Anatomy and Function&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The cerebrum is the largest part of the brain, divided into left and right hemispheres, and is responsible for high-level functions like reasoning, learning, and emotion.&lt;/li&gt;
+&lt;li&gt;The cerebellum sits below the cerebrum and coordinates muscle movements, posture, and balance.&lt;/li&gt;
+&lt;li&gt;The brainstem acts as a relay center connecting the brain to the spinal cord while managing automatic functions like heart rate and breathing.&lt;/li&gt;
+&lt;li&gt;The frontal lobe of the cerebrum handles reasoning, motor control, emotion, and language.&lt;/li&gt;
+&lt;li&gt;The temporal lobe enables conscious and long-term memory.&lt;/li&gt;
+&lt;li&gt;The parietal lobe processes non-visual sensory information such as touch, taste, and temperature.&lt;/li&gt;
+&lt;li&gt;The occipital lobe is dedicated to processing visual information.&lt;/li&gt;
+&lt;li&gt;The cerebral cortex is the folded surface of the cerebrum, consisting of ridges called gyri and valleys called sulci.&lt;/li&gt;
+&lt;li&gt;The outer cortex is made of &amp;ldquo;grey matter&amp;rdquo; (neurons), while the underlying long nerve fibers form &amp;ldquo;white matter&amp;rdquo; that connects different brain areas.&lt;/li&gt;
+&lt;li&gt;The Parieto-Frontal Integration Theory suggests that higher intelligence stems from faster, more efficient, and selective information flow between the frontal and parietal regions, rather than just raw brain power.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;neurobiology-the-building-blocks&#34;&gt;Neurobiology: The Building Blocks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The cerebral cortex mostly consists of a 6-layered neocortex, with each layer containing different neuronal shapes, sizes, and densities.&lt;/li&gt;
+&lt;li&gt;Neurons are the basic working units of the brain, featuring a cell body, dendrites for receiving information, and an axon for transmitting outputs.&lt;/li&gt;
+&lt;li&gt;The human brain contains roughly 86 billion neurons, each connecting to 1,000 to 10,000 other neurons, capable of storing around 1,000 terabytes of data.&lt;/li&gt;
+&lt;li&gt;A synapse is the gap between neurons where signal transmission occurs.&lt;/li&gt;
+&lt;li&gt;Electrical synapses provide direct current flow for almost instantaneous, highly reliable transmission without signal transformation.&lt;/li&gt;
+&lt;li&gt;Chemical synapses are slower but offer flexibility by amplifying or inhibiting signals, which allows for changes in strength over time (the basis of learning).&lt;/li&gt;
+&lt;li&gt;The human brain consumes about 20% of the body&amp;rsquo;s energy but operates on merely 20 watts of power.&lt;/li&gt;
+&lt;li&gt;While brain signals travel at just 1 to 120 meters per second—much slower than computer processors—the brain still outperforms computers in many tasks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cognitive-theories-of-intelligence&#34;&gt;Cognitive Theories of Intelligence&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Jeff Hawkins&amp;rsquo; &amp;ldquo;Thousand Brains Theory&amp;rdquo; proposes that all cortical columns learn models of objects, and connections between them resolve ambiguity through sensor fusion.&lt;/li&gt;
+&lt;li&gt;The human brain functions using an &amp;ldquo;Old Brain&amp;rdquo; (subcortical regions responsible for basic survival functions) and a &amp;ldquo;New Brain&amp;rdquo; (the neocortex responsible for abstract thought and logic).&lt;/li&gt;
+&lt;li&gt;Daniel Kahneman proposes two modes of human thought: System 1 (fast, automatic, emotional, unconscious) and System 2 (slow, effortful, logical, conscious).&lt;/li&gt;
+&lt;li&gt;Minsky &amp;amp; Papert&amp;rsquo;s &amp;ldquo;Society of Minds&amp;rdquo; theory argues that intelligence is not a singular capability but a network of many small, specialized, non-intelligent agents working hierarchically.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;multi-faceted-intelligence-theories&#34;&gt;Multi-Faceted Intelligence Theories&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Theory&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Gardner&amp;rsquo;s Multiple Intelligences&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Differentiates intelligence into distinct modalities, such as logical-mathematical, linguistic, and spatial intelligence.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Sternberg&amp;rsquo;s Triarchic Theory&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Divides intelligence into analytic (reasoning), creative (inventing), and practical (adapting to context) components.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;PASS Theory&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Focuses on Planning, Attention, Simultaneous, and Successive processing.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Cattell-Horn-Carroll Theory&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Proposes a hierarchy consisting of general intelligence at the top, broad abilities (like fluid and crystallized intelligence) in the middle, and narrow, specific skills at the bottom.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;piagets-stages-of-cognitive-development&#34;&gt;Piaget&amp;rsquo;s Stages of Cognitive Development&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Stage&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Age Range&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Characteristics&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Sensorimotor&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Birth to 2 years&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gains knowledge of the world through physical interaction involving vision and motor skills.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Pre-operational&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2 to 7 years&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Uses symbols to represent objects and develops intuitive thoughts (asking why and how).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Concrete operational&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7 to 11 years&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Uses appropriate logic and begins to understand the perspectives of others.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Formal operational&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;11 to 15 years&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Capable of abstract, hypothetical, and deductive reasoning to solve complex problems.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;modern-ai-vs-human-intelligence&#34;&gt;Modern AI vs. Human Intelligence&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Modern AI functions mainly by finding patterns in training data associated with nominal labels or numeric values.&lt;/li&gt;
+&lt;li&gt;AI heavily relies on its training data; it can be deceiving if it represents some cases correctly while missing others entirely.&lt;/li&gt;
+&lt;li&gt;A prominent failure of this data reliance was Google Photos&amp;rsquo; facial recognition model mislabeling African American individuals as gorillas due to biased training data.&lt;/li&gt;
+&lt;li&gt;AI pattern recognition can still be highly valuable, akin to how John Snow historically identified the source of London&amp;rsquo;s cholera outbreak by finding geographical patterns.&lt;/li&gt;
+&lt;li&gt;Current conversational AI agents are exploring &amp;ldquo;inner thoughts&amp;rdquo; to simulate System 2 thinking, utilizing intrinsic motivation to proactively engage users rather than just reacting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;expert-systems&#34;&gt;Expert Systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Expert systems were heavily developed before the second AI winter to make AI think more like humans.&lt;/li&gt;
+&lt;li&gt;These systems derive rules directly from human experts to imitate reasoning, rather than relying on massive training datasets.&lt;/li&gt;
+&lt;li&gt;IBM&amp;rsquo;s Deep Blue, which defeated world chess champion Garry Kasparov in 1997, represents a peak achievement for expert systems.&lt;/li&gt;
+&lt;li&gt;MYCIN: A 1970s medical expert system that used rules to select antibiotics for severe infections and could explain to users why it asked specific questions.&lt;/li&gt;
+&lt;li&gt;DXplain: A 1980s clinical decision support system that acted as a medical reference, producing ranked diagnoses and justifications based on entered symptoms.&lt;/li&gt;
+&lt;li&gt;In medical diagnosis, human doctors excel at the &amp;ldquo;generative&amp;rdquo; phase (broadly gathering information and forming hypotheses), while AI excels at the &amp;ldquo;discriminative&amp;rdquo; phase (narrowing down candidates based on laws and probabilities).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-gap-between-ai-and-consciousness&#34;&gt;The Gap Between AI and Consciousness&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;AI successfully replicates some low-level biological primitives, such as using artificial neurons, layers, and weighted activations.&lt;/li&gt;
+&lt;li&gt;We still lack a complete, validated theory of how true intelligence emerges from neurons.&lt;/li&gt;
+&lt;li&gt;Modern AI sidesteps the unresolved question of true intelligence by simply relying on vast amounts of training data to parameterize low-level constructs.&lt;/li&gt;
+&lt;li&gt;While intelligent machines can process information millions of times faster than biological brains, they cannot acquire entirely new knowledge at that same accelerated rate.&lt;/li&gt;
+&lt;li&gt;Consciousness remains a major unsolved problem, specifically how physical brain processes create subjective experiences.&lt;/li&gt;
+&lt;li&gt;From an evolutionary perspective, consciousness may have developed to make humans value existence and better anticipate/prepare for future events.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
