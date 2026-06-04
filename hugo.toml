@@ -47,12 +47,12 @@ theme = 'PaperMod'
   
   [[menus.main]]
     name = "Notes"
-    pageRef = "/nosts"
+    pageRef = "/notes"
     weight = 20
 
   [[menus.main]]
     name = "Search"
-    pageRef = "/search"
+    pageRef = "/search" 
     weight = 40
 
 [outputs]
