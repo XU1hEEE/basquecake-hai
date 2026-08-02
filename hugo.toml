@@ -7,8 +7,12 @@ theme = 'PaperMod'
   env = "production"
   author = "Marina"
   description = "Exploring Human-AI Interaction."
+  mainSections = ["posts"]
   ShowReadingTime = true
   ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowToc = true
   defaultTheme = "auto"
 
   disableSpecial1stPost = true
