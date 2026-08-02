@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Notes on BasqueCake</title>
-    <link>http://localhost:1313/basquecake-hai/notes/</link>
-    <description>Recent content in Notes on BasqueCake</description>
+    <title>Notes on Marina&#39;s HAI Recipes</title>
+    <link>http://127.0.0.1:1313/notes/</link>
+    <description>Recent content in Notes on Marina&#39;s HAI Recipes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Jun 2026 10:01:52 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/basquecake-hai/notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1:1313/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>L8: Fairness &amp; Bias</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l08-fairness-bias/</link>
+      <link>http://127.0.0.1:1313/notes/hfai-course/l08-fairness-bias/</link>
       <pubDate>Tue, 02 Jun 2026 10:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l08-fairness-bias/</guid>
+      <guid>http://127.0.0.1:1313/notes/hfai-course/l08-fairness-bias/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;This lecture explores fairness and bias in AI systems. It examines:&lt;/p&gt;
 &lt;ol&gt;
@@ -32,9 +32,9 @@
     </item>
     <item>
       <title>L7: Autonomy, Trust &amp; Reliance</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l07-autonomy-trust-reliance/</link>
+      <link>http://127.0.0.1:1313/notes/hfai-course/l07-autonomy-trust-reliance/</link>
       <pubDate>Wed, 20 May 2026 10:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l07-autonomy-trust-reliance/</guid>
+      <guid>http://127.0.0.1:1313/notes/hfai-course/l07-autonomy-trust-reliance/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;This lecture examines three critical human factors in AI systems:&lt;/p&gt;
 &lt;ol&gt;
@@ -50,9 +50,9 @@
     </item>
     <item>
       <title>L5: Model Interpretability</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l05-model-interpretability/</link>
+      <link>http://127.0.0.1:1313/notes/hfai-course/l05-model-interpretability/</link>
       <pubDate>Mon, 18 May 2026 10:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l05-model-interpretability/</guid>
+      <guid>http://127.0.0.1:1313/notes/hfai-course/l05-model-interpretability/</guid>
       <description>&lt;h1 id=&#34;human-factors-in-artificial-intelligence&#34;&gt;Human Factors in Artificial Intelligence:&lt;/h1&gt;
 &lt;h2 id=&#34;why-do-humans-need-to-understand-ai&#34;&gt;Why Do Humans Need to Understand AI?&lt;/h2&gt;
 &lt;p&gt;As AI systems become more complex, users need ways to understand:&lt;/p&gt;
@@ -71,9 +71,9 @@
     </item>
     <item>
       <title>L6: Mixed-Initiative Interaction</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</link>
+      <link>http://127.0.0.1:1313/notes/hfai-course/l06-mixed-initiative-interaction/</link>
       <pubDate>Mon, 04 May 2026 10:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</guid>
+      <guid>http://127.0.0.1:1313/notes/hfai-course/l06-mixed-initiative-interaction/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;p&gt;Mixed-Initiative Interaction refers to systems where both humans and AI contribute to decision-making and task completion. Instead of either the human or AI being fully in control, initiative is shared dynamically based on context, uncertainty, and user needs.&lt;/p&gt;
 &lt;hr&gt;
@@ -105,9 +105,9 @@
     </item>
     <item>
       <title>L4: Feature Visualization &amp; Engineering</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</link>
+      <link>http://127.0.0.1:1313/notes/hfai-course/l04-feature-visualization-engineering/</link>
       <pubDate>Mon, 20 Apr 2026 10:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</guid>
+      <guid>http://127.0.0.1:1313/notes/hfai-course/l04-feature-visualization-engineering/</guid>
       <description>&lt;h2 id=&#34;data-tables-and-network-data&#34;&gt;Data Tables and Network Data&lt;/h2&gt;
 &lt;h3 id=&#34;what-is-a-data-table&#34;&gt;What Is a Data Table?&lt;/h3&gt;
 &lt;ul&gt;
@@ -143,9 +143,9 @@
     </item>
     <item>
       <title>L3: Data Collection &amp; Annotation</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l03-data-collection-annotation/</link>
+      <link>http://127.0.0.1:1313/notes/hfai-course/l03-data-collection-annotation/</link>
       <pubDate>Wed, 15 Apr 2026 10:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l03-data-collection-annotation/</guid>
+      <guid>http://127.0.0.1:1313/notes/hfai-course/l03-data-collection-annotation/</guid>
       <description>&lt;h2 id=&#34;data-driven-ai-as-a-black-box&#34;&gt;Data-driven AI as a &amp;ldquo;Black Box&amp;rdquo;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;There is a low barrier to using AI because it is sufficient to provide input and output data to train a model.&lt;/li&gt;
@@ -157,9 +157,9 @@
     </item>
     <item>
       <title>L2: Human Intelligence vs. Artificial Intelligence</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l02-human-intelligence/</link>
+      <link>http://127.0.0.1:1313/notes/hfai-course/l02-human-intelligence/</link>
       <pubDate>Wed, 01 Apr 2026 10:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l02-human-intelligence/</guid>
+      <guid>http://127.0.0.1:1313/notes/hfai-course/l02-human-intelligence/</guid>
       <description>&lt;h2 id=&#34;introduction-to-human-intelligence&#34;&gt;Introduction to Human Intelligence&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Understanding human intelligence helps us reflect on how AI differs from it and reveals AI&amp;rsquo;s fundamental limitations.&lt;/li&gt;
@@ -286,9 +286,9 @@
     </item>
     <item>
       <title>L1: Introduction to Artificial Intelligence</title>
-      <link>http://localhost:1313/basquecake-hai/notes/hfai-course/l01-introduction/</link>
+      <link>http://127.0.0.1:1313/notes/hfai-course/l01-introduction/</link>
       <pubDate>Mon, 30 Mar 2026 10:01:52 -0800</pubDate>
-      <guid>http://localhost:1313/basquecake-hai/notes/hfai-course/l01-introduction/</guid>
+      <guid>http://127.0.0.1:1313/notes/hfai-course/l01-introduction/</guid>
       <description>&lt;h3 id=&#34;defining-ai&#34;&gt;Defining AI&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;AI is defined as algorithms performing tasks or behaviors that a human would reasonably deem to require intelligence.&lt;/li&gt;

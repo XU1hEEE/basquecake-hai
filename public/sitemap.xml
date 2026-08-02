@@ -2,55 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/basquecake-hai/</loc>
+    <loc>http://127.0.0.1:1313/posts/</loc>
+    <lastmod>2026-08-01T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/</loc>
+    <lastmod>2026-08-01T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/posts/p2kg-map/</loc>
+    <lastmod>2026-08-01T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://127.0.0.1:1313/notes/hfai-course/l08-fairness-bias/</loc>
     <lastmod>2026-06-02T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/hfai-course/l08-fairness-bias/</loc>
+    <loc>http://127.0.0.1:1313/notes/</loc>
     <lastmod>2026-06-02T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/</loc>
-    <lastmod>2026-06-02T10:01:52-08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/hfai-course/l07-autonomy-trust-reliance/</loc>
+    <loc>http://127.0.0.1:1313/notes/hfai-course/l07-autonomy-trust-reliance/</loc>
     <lastmod>2026-05-20T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/hfai-course/l05-model-interpretability/</loc>
+    <loc>http://127.0.0.1:1313/notes/hfai-course/l05-model-interpretability/</loc>
     <lastmod>2026-05-18T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/hfai-course/l06-mixed-initiative-interaction/</loc>
+    <loc>http://127.0.0.1:1313/notes/hfai-course/l06-mixed-initiative-interaction/</loc>
     <lastmod>2026-05-04T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/hfai-course/l04-feature-visualization-engineering/</loc>
+    <loc>http://127.0.0.1:1313/notes/hfai-course/l04-feature-visualization-engineering/</loc>
     <lastmod>2026-04-20T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/hfai-course/l03-data-collection-annotation/</loc>
+    <loc>http://127.0.0.1:1313/notes/hfai-course/l03-data-collection-annotation/</loc>
     <lastmod>2026-04-15T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/</loc>
+    <loc>http://127.0.0.1:1313/posts/human-vs/</loc>
     <lastmod>2026-04-02T19:24:03-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/human-vs/</loc>
-    <lastmod>2026-04-02T19:24:03-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/hfai-course/l02-human-intelligence/</loc>
+    <loc>http://127.0.0.1:1313/notes/hfai-course/l02-human-intelligence/</loc>
     <lastmod>2026-04-01T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/notes/hfai-course/l01-introduction/</loc>
+    <loc>http://127.0.0.1:1313/notes/hfai-course/l01-introduction/</loc>
     <lastmod>2026-03-30T10:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/feedback/</loc>
+    <loc>http://127.0.0.1:1313/posts/feedback/</loc>
     <lastmod>2026-03-08T20:26:39-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/mercy/</loc>
+    <loc>http://127.0.0.1:1313/posts/mercy/</loc>
     <lastmod>2026-02-23T04:01:52-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/posts/speech-print/</loc>
+    <loc>http://127.0.0.1:1313/posts/speech-print/</loc>
     <lastmod>2025-11-28T11:24:07-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/categories/</loc>
+    <loc>http://127.0.0.1:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/search/</loc>
+    <loc>http://127.0.0.1:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/basquecake-hai/tags/</loc>
+    <loc>http://127.0.0.1:1313/tags/</loc>
   </url>
 </urlset>
