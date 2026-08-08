@@ -6,7 +6,7 @@
   --tertiary: #e8e3d9;
   --content: #2a2a2a;
   --code-bg: #f0ece4;
-  --code-block-bg: #f0ece4;
+  --code-block-bg: #f7f3ec;
   --border: rgba(17, 17, 17, 0.08);
   --radius-xl: 28px;
   --radius-lg: 22px;
@@ -141,40 +141,6 @@ html[data-theme="dark"] .home-hero-kicker {
   max-width: 680px;
 }
 
-.home-hero-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin: 24px 0 10px;
-}
-
-.home-hero-button {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-width: 140px;
-  padding: 12px 18px;
-  border-radius: 999px;
-  border: 1px solid var(--border);
-  font-weight: 600;
-  transition: transform 0.2s ease, background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
-}
-
-.home-hero-button:hover {
-  transform: translateY(-2px);
-}
-
-.home-hero-button.primary {
-  background: var(--primary);
-  color: var(--theme);
-  border-color: var(--primary);
-}
-
-.home-hero-button.secondary {
-  background: transparent;
-  color: var(--primary);
-}
-
 .social-icons a {
   width: 40px;
   height: 40px;
@@ -195,6 +161,24 @@ html[data-theme="dark"] .home-hero-kicker {
 .post-entry {
   padding: 24px 24px 18px;
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.post-single {
+  padding: 34px clamp(24px, 4vw, 46px) 40px;
+  border-radius: var(--radius-xl);
+}
+
+.post-single .post-header,
+.post-single .post-content,
+.post-single .post-footer,
+.post-single .toc {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.post-single .post-header {
+  margin-top: 0;
 }
 
 .home-info + .post-entry {
@@ -253,6 +237,89 @@ html[data-theme="dark"] .home-hero-kicker {
   padding: 20px;
 }
 
+html:not([data-theme="dark"]) .post-content .highlight:not(table),
+html:not([data-theme="dark"]) .post-content pre code {
+  color: #2d3748;
+  background: var(--code-block-bg) !important;
+}
+
+html:not([data-theme="dark"]) .post-content pre {
+  border-color: rgba(186, 166, 140, 0.45);
+}
+
+html:not([data-theme="dark"]) .post-content pre[style] {
+  background-color: var(--code-block-bg) !important;
+  color: #2d3748 !important;
+}
+
+html:not([data-theme="dark"]) .post-content .highlight:not(table) {
+  border-color: rgba(186, 166, 140, 0.45);
+}
+
+html:not([data-theme="dark"]) .post-content .chroma,
+html:not([data-theme="dark"]) .post-content .chroma .line {
+  color: #2d3748;
+  background-color: var(--code-block-bg);
+}
+
+html:not([data-theme="dark"]) .post-content .chroma .k,
+html:not([data-theme="dark"]) .post-content .chroma .kc,
+html:not([data-theme="dark"]) .post-content .chroma .kd,
+html:not([data-theme="dark"]) .post-content .chroma .kn,
+html:not([data-theme="dark"]) .post-content .chroma .kp,
+html:not([data-theme="dark"]) .post-content .chroma .kr,
+html:not([data-theme="dark"]) .post-content .chroma .kt,
+html:not([data-theme="dark"]) .post-content .chroma .nt {
+  color: #7c3aed;
+}
+
+html:not([data-theme="dark"]) .post-content .chroma .na,
+html:not([data-theme="dark"]) .post-content .chroma .nb,
+html:not([data-theme="dark"]) .post-content .chroma .nf,
+html:not([data-theme="dark"]) .post-content .chroma .fm {
+  color: #1d4ed8;
+}
+
+html:not([data-theme="dark"]) .post-content .chroma .s,
+html:not([data-theme="dark"]) .post-content .chroma .sa,
+html:not([data-theme="dark"]) .post-content .chroma .sb,
+html:not([data-theme="dark"]) .post-content .chroma .sc,
+html:not([data-theme="dark"]) .post-content .chroma .s1,
+html:not([data-theme="dark"]) .post-content .chroma .s2,
+html:not([data-theme="dark"]) .post-content .chroma .se,
+html:not([data-theme="dark"]) .post-content .chroma .sh,
+html:not([data-theme="dark"]) .post-content .chroma .si,
+html:not([data-theme="dark"]) .post-content .chroma .sx,
+html:not([data-theme="dark"]) .post-content .chroma .sr,
+html:not([data-theme="dark"]) .post-content .chroma .ss {
+  color: #047857;
+}
+
+html:not([data-theme="dark"]) .post-content .chroma .m,
+html:not([data-theme="dark"]) .post-content .chroma .mb,
+html:not([data-theme="dark"]) .post-content .chroma .mf,
+html:not([data-theme="dark"]) .post-content .chroma .mh,
+html:not([data-theme="dark"]) .post-content .chroma .mi,
+html:not([data-theme="dark"]) .post-content .chroma .il,
+html:not([data-theme="dark"]) .post-content .chroma .mo {
+  color: #b45309;
+}
+
+html:not([data-theme="dark"]) .post-content .chroma .c,
+html:not([data-theme="dark"]) .post-content .chroma .ch,
+html:not([data-theme="dark"]) .post-content .chroma .cm,
+html:not([data-theme="dark"]) .post-content .chroma .c1,
+html:not([data-theme="dark"]) .post-content .chroma .cs,
+html:not([data-theme="dark"]) .post-content .chroma .cp,
+html:not([data-theme="dark"]) .post-content .chroma .cpf {
+  color: #7b8794;
+}
+
+html:not([data-theme="dark"]) .post-content .chroma .ln,
+html:not([data-theme="dark"]) .post-content .chroma .lnt {
+  color: #a09484;
+}
+
 .toc {
   padding: 18px 22px;
 }
@@ -283,15 +350,11 @@ html[data-theme="dark"] .home-hero-kicker {
     padding: 26px 22px;
   }
 
+  .post-single {
+    padding: 24px 18px 28px;
+  }
+
   .home-info .entry-header h1 {
     font-size: 2.2rem;
-  }
-
-  .home-hero-actions {
-    gap: 10px;
-  }
-
-  .home-hero-button {
-    width: 100%;
   }
 }

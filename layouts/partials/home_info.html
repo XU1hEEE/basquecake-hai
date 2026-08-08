@@ -7,10 +7,6 @@
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
-    <div class="home-hero-actions">
-        <a class="home-hero-button primary" href="{{ "/posts/" | relLangURL }}">Read Blog</a>
-        <a class="home-hero-button secondary" href="{{ "/notes/" | relLangURL }}">Browse Notes</a>
-    </div>
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}
     </footer>
